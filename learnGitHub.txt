@@ -5,3 +5,9 @@ mkdir -> Makes a New directory.
 
 git inti -> initializes git in the folder
 
+git commit is used to commit the canges to the staging area.
+git log -> history of the project till now.
+git reset -> resets the commits
+git branch <Name of the  branch> -> to create the Branch.
+git  checkout <Name of the branch> -> to swaithc to the selected branch.
+
