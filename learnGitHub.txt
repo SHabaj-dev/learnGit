@@ -1,0 +1,7 @@
+Commands:
+
+ls -> list all the files in the current folder or file.(use -a to see all the hidden files)
+mkdir -> Makes a New directory.
+
+git inti -> initializes git in the folder
+
